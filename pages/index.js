@@ -5,7 +5,6 @@ import Navbar from "../components/Navbar";
 import requests from "../utils/requests";
 
 export default function Home({ results }) {
-  console.log(results);
   return (
     <div className="">
       <Head>
